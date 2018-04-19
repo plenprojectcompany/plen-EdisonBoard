@@ -2,10 +2,11 @@ PLEN2 Head Board Using Intel Edison | PLEN Project Company Inc.
 ===============================================================================
 
 ## Copyright (c) 2016,
-- [Yuki KUSAKABE](https://github.com/Yuqlid)
-- [Mitsuhiro MIYAGUCHI](https://github.com/mitsuhiromiyaguchi)
-- [Ryo OKUNAKA](https://github.com/oknkr)
 - [PLEN Project Company Inc.](https://plen.jp)
+- [Ryo OKUNAKA](https://github.com/oknkr)
+- Naohiro HAYAISHI
+- [Mitsuhiro MIYAGUCHI](https://github.com/mitsuhiromiyaguchi)
+- [Yuki KUSAKABE](https://github.com/Yuqlid)
 
 ## Build Environment
 - Eagle 7.6.0
